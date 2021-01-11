@@ -1,0 +1,35 @@
+#EXTM3U
+#EXTINF:0 group-title="CA-FR" tvg-country="CA" tvg-language="French" tvg-id="Assemble Nationale" tvg-name="Assemblee Nationale du Quebec" tvg-logo="https://i.imgur.com/wSURfN9.jpg",CA > Assemblee Nationale du Quebec
+http://diffusionm3.assnat.qc.ca/canal10/250.sdp/chunklist.m3u8
+#EXTINF:0 group-title="CA-FR" tvg-country="CA" tvg-language="French" tvg-id="Canal Savoir" tvg-name="Canal Savoir" tvg-logo="https://i.imgur.com/dSvUExH.png",CA > Canal Savoir
+https://hls.savoir.media/live/stream.m3u8
+#EXTINF:0 group-title="CA-FR" tvg-country="CA" tvg-language="French" tvg-id="CPAC (FR)" tvg-name="CPAC (FR)" tvg-logo="https://i.imgur.com/wwmapsS.png",CA > CPAC (FR)
+https://bcsecurelivehls-i.akamaihd.net/hls/live/680604/1242843915001_3/master.m3u8
+#EXTINF:0 group-title="CA-FR" tvg-country="CA" tvg-language="French" tvg-id="Francophonie 24" tvg-name="Francophonie 24" tvg-logo="https://i.imgur.com/8V1ZmJn.jpg",CA > Francophonie 24
+http://mv2.tvfrancophonie.org/live/Stream1/media_b776739_w671289549.m3u8
+#EXTINF:0 group-title="CA-FR" tvg-country="CA" tvg-language="French" tvg-id="ICI RDI HD" tvg-name="ICI RDI HD" tvg-logo="https://i.imgur.com/AI0PIzQ.png",CA > ICI RDI HD
+https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master_2500.m3u8
+#EXTINF:0 group-title="CA-FR" tvg-country="CA" tvg-language="French" tvg-id="ICI Tele HD" tvg-name="ICI Tele HD" tvg-logo="https://i.imgur.com/byTTNAi.png",CA > ICI Tele HD
+https://rcavlive.akamaized.net/hls/live/696615/xcancbft/master_2500.m3u8
+#EXTINF:0 group-title="CA-FR" tvg-country="CA" tvg-language="French" tvg-id="Noovo" tvg-name="Noovo" tvg-logo="https://i.imgur.com/fCV63xf.png",CA > Noovo
+https://bcsecurelivehls-i.akamaihd.net/hls/live/551061/618566855001/master.m3u8
+#EXTINF:0 group-title="CA-FR" tvg-country="CA" tvg-language="French" tvg-id="Tele Quebec" tvg-name="Tele Quebec" tvg-logo="https://i.imgur.com/0ZmcpEE.png",CA > Tele Quebec
+https://bcovlive-a.akamaihd.net/575d86160eb143458d51f7ab187a4e68/us-east-1/6101674910001/playlist.m3u8
+#EXTINF:0 group-title="CA-EN" tvg-country="CA" tvg-language="English" tvg-id="Bein Sport XTra" tvg-name="Bein Sport Xtra (CA)" tvg-logo="https://i.imgur.com/pVU9nrc.png",CA > Bein Sport Xtra
+https://bein-xtra-samsung-canada.amagi.tv/playlist.m3u8
+#EXTINF:0 group-title="CA-EN" tvg-country="CA" tvg-language="English" tvg-id="CBC News" tvg-name="CBC News" tvg-logo="https://i.imgur.com/gxGGalE.jpg",CA > CBC News
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-cbcnews/CDN/master.m3u8
+#EXTINF:0 group-title="CA-EN" tvg-country="CA" tvg-language="English" tvg-id="CPAC (EN)" tvg-name="CPAC (EN)" tvg-logo="https://i.imgur.com/wwmapsS.png",CA > CPAC (EN)
+https://bcsecurelivehls-i.akamaihd.net/hls/live/680602/1242843915001_1/master.m3u8
+#EXTINF:0 group-title="CA-EN" tvg-country="CA" tvg-language="English" tvg-id="GlobalTV" tvg-name="Global Toronto" tvg-logo="https://i.imgur.com/wlqYdqN.png",CA > Global Toronto
+
+#EXTINF:0 group-title="CA-EN" tvg-country="CA" tvg-language="English" tvg-id="GlobalTVCalgary" tvg-name="Global Calgary" tvg-logo="https://i.imgur.com/ppMNSKT.png",CA > Global Calgary
+https://dfmjr9irb1dl5.cloudfront.net/out/v1/454010ff309e4963a087f5802856e346/index.m3u8
+#EXTINF:0 group-title="CA-EN" tvg-country="CA" tvg-language="English" tvg-id="GlobalTVNews" tvg-name="Global News National" tvg-logo="https://i.imgur.com/JIA7MUV.png",CA > Global News National
+
+#EXTINF:0 group-title="CA-EN" tvg-country="CA" tvg-language="English" tvg-id="Newsmax-TV" tvg-name="Newsmax TV" tvg-logo="https://i.imgur.com/Twkovic.gif",CA > Newsmax TV
+https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
+#EXTINF:0 group-title="CA-EN" tvg-country="CA" tvg-language="English" tvg-id="Tastemade" tvg-name="Tastemade (CA)" tvg-logo="https://i.imgur.com/yuRa9lM.png",CA > Tastemade
+https://ti-samsung-ca.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CH > Rouge TV" tvg-id="RougeTV" tvg-logo="https://i.imgur.com/hF0PVKp.png" group-title="SWISS",CH > Rouge TV
+http://rtmp.rougetv.vedge.infomaniak.com/livecast/rougetv/playlist.m3u8
