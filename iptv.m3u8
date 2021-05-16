@@ -15,6 +15,8 @@ https://rcavlive.akamaized.net/hls/live/696615/xcancbft/master_2500.m3u8
 https://bcsecurelivehls-i.akamaihd.net/hls/live/551061/618566855001/master.m3u8
 #EXTINF:0 group-title="CA-FR" tvg-country="CA" tvg-language="French" tvg-id="Tele Quebec" tvg-name="Tele Quebec" tvg-logo="https://i.imgur.com/0ZmcpEE.png",CA > Tele Quebec
 https://bcovlive-a.akamaihd.net/575d86160eb143458d51f7ab187a4e68/us-east-1/6101674910001/playlist.m3u8
+#EXTINF:0 group-title="CA-FR" tvg-country="CA" tvg-language="French" tvg-id="TVA" tvg-name="TVA" tvg-logo="https://www.qub.ca/_next/static/images/Logo_TVA+_Inverse-583f15333fe234610f7e8ce79f12c57f.svg",CA > TVA
+https://tvalive-nondai.akamaized.net/Content/HLS/Live/channel(a7315e07-037c-12a8-bdc8-da7bd513da9d)/03.m3u8
 #EXTINF:0 group-title="CA-EN" tvg-country="CA" tvg-language="English" tvg-id="Bein Sport XTra" tvg-name="Bein Sport Xtra (CA)" tvg-logo="https://i.imgur.com/pVU9nrc.png",CA > Bein Sport Xtra
 https://bein-xtra-samsung-canada.amagi.tv/playlist.m3u8
 #EXTINF:0 group-title="CA-EN" tvg-country="CA" tvg-language="English" tvg-id="CBC News" tvg-name="CBC News" tvg-logo="https://i.imgur.com/gxGGalE.jpg",CA > CBC News
