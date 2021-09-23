@@ -3,3 +3,4 @@ SOURCES:
 - https://gist.github.com/onigetoc/8ed7263e644b7d121d0275c805f1ee4a
 - https://git.weblib.re/WEBLIB.RE/IPTV/src/branch/master/tv.m3u
 - http://www.albo2000.com/tv/index.html
+- https://github.com/geonsey/Free2ViewTV
